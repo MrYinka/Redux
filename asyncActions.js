@@ -13,7 +13,7 @@ const axios = require('axios');
 const initialState = {
     data: [],
     loading: false,
-    error: false
+    error: ''
 }
 
 
